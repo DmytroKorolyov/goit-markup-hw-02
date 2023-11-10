@@ -6,7 +6,7 @@
     --text: #434455;
        }
 body {
-    font-family: 'Roboto', "raleway" sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: var(--white-background);
 }
