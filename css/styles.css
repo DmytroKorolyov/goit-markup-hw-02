@@ -97,9 +97,8 @@ ul {
         /* 120% */
         letter-spacing: 0.02em;
 }
-.cards .card-text {
-    color:#434455;
-        /* Body */
+.list .card-text {
+    color: var(--text);
         font-family: Roboto;
         font-size: 16px;
         font-style: normal;
