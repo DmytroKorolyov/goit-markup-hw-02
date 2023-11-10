@@ -86,16 +86,16 @@ ul {
 
 
 
-.cards .card-title {
+.list .card-title {
     color: #2E2F42;
         /* Header 3 */
         font-family: Roboto;
         font-size: 20px;
         font-style: normal;
         font-weight: 500;
-        line-height: 24px;
+        line-height: 1.2;
         /* 120% */
-        letter-spacing: 0.4px;
+        letter-spacing: 0.02em;
 }
 .cards .card-text {
     color:#434455;
