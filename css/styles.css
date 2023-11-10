@@ -70,6 +70,22 @@ ul {
         cursor: pointer;
         background-color: var(--light);
 }
+.list .filter-button:hover,
+.list .filter-button:hover {
+    color: #FFFFFF;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.64px;
+    cursor: pointer;
+    background-color: #404BBF;
+}
+
+
+
+
 .cards .card-title {
     color: #2E2F42;
         /* Header 3 */
