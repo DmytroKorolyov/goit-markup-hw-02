@@ -1,0 +1,21 @@
+:root {
+    --brand-font-family: "Roboto", sans-serif;
+    --brand-color: #2E2F42;
+
+}
+body {
+    font-family: var(--brand-font-family);
+    background-color: #FFF;
+}
+
+.navigation .navigation-link {
+    font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+}
+.navigation .navigation-link {
+
+}
+
