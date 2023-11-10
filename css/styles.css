@@ -38,7 +38,7 @@ ul {
         text-transform: uppercase;
         text-decoration: none;
 }
-.navigation-list .link {
+.list .link {
     color: var(--dark);
     font-family: Roboto;
         font-size: 16px;
