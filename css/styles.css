@@ -39,6 +39,15 @@ ul {
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
+.navigation .list {
+    color: var(--dark);
+    font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
 .list .link {
     color: var(--dark);
     font-family: Roboto;
