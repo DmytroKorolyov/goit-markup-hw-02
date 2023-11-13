@@ -172,4 +172,21 @@ color: var(--light);
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
-
+.section-one .section-one-title {
+    color: var(--white-background);
+    font-family: Roboto;
+        font-size: 56px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 60px;
+        letter-spacing: 1.12px;
+        }
+.section-one .section-one-button {
+    color: var(--white-background);
+    font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.64px;
+}
