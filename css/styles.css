@@ -123,13 +123,11 @@ ul {
 
 .list .card-title {
     color: #2E2F42;
-        /* Header 3 */
         font-family: Roboto;
         font-size: 20px;
         font-style: normal;
         font-weight: 500;
         line-height: 1.2;
-        /* 120% */
         letter-spacing: 0.02em;
 }
 .list .card-text {
@@ -139,7 +137,6 @@ ul {
         font-style: normal;
         font-weight: 400;
         line-height: 24px;
-        /* 150% */
         letter-spacing: 0.32px;
 }
 .footer {
@@ -147,13 +144,11 @@ ul {
     }
 .footer .footer-text {
     color: #F4F4FD;
-        /* Body */
         font-family: Roboto;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: 24px;
-        /* 150% */
         letter-spacing: 0.32px;
 }
 .footer .footer-logo-part {
@@ -163,7 +158,6 @@ color: #4D5AE5;
     font-style: normal;
     font-weight: 800;
     line-height: 21px;
-    /* 116.667% */
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
@@ -174,7 +168,6 @@ color: #4D5AE5;
         font-style: normal;
         font-weight: 800;
         line-height: 21px;
-        /* 116.667% */
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
