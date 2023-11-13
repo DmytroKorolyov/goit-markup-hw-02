@@ -50,7 +50,7 @@ ul {
 }
 .navigation .list:hover,
 .navigation .list:focus {
-    color: var(--pressed-state);
+    color: #404bbf;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -68,7 +68,7 @@ ul {
         letter-spacing: 0.32px;
 }
 .adress .list {
-    color: #434455;
+    color: var(--text);
     font-family: Roboto;
         font-size: 16px;
         font-style: normal;
