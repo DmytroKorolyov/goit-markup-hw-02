@@ -237,4 +237,38 @@ color: var(--light);
         text-transform: capitalize;
         text-align: center;
 }
+.section-four{
+    background-color: #F4F4FD;
+}
+.section-four .section-four-title {
+    color: var(--dark);
+        font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+
+.list .team-card {
+    background-color: #FFFFFF;
+}
+.team-card .team-card-title {
+    color: var(--dark);
+    font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+.team-card .team-card-text {
+    color: var(--text);
+    font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
 
