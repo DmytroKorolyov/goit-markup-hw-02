@@ -81,8 +81,8 @@ ul {
         list-style: none;
         
 }
-.adress .list:hover, 
-.adress .list:focus {
+.adress .link:hover, 
+.adress .link:focus {
     color: #404bbf;
     font-family: Roboto;
     font-size: 16px;
