@@ -208,3 +208,22 @@ color: var(--light);
     background-color: #404BBF;
     cursor: pointer;
 }
+.list .section-two-list-title {
+    color: var(--dark);
+    font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.2em;
+}
+.list .section-two-list-text {
+    color: var(--text);
+    font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
