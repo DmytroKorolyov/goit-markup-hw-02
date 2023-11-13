@@ -30,14 +30,14 @@ ul {
 }
 .navigation .link {
     color: var(--primary-brand);
-    font-family: Raleway, sans-serif;
+    color: var(--IRIS, #4D5AE5);
+        font-family: Raleway;
         font-size: 18px;
         font-style: normal;
         font-weight: 800;
-        line-height: 1.17;
+        line-height: 21px;
         letter-spacing: 0.54px;
         text-transform: uppercase;
-        text-decoration: none;
 }
 .list .link {
     color: var(--dark);
@@ -46,7 +46,6 @@ ul {
         font-style: normal;
         font-weight: 500;
         line-height: 24px;
-        /* 150% */
         letter-spacing: 0.32px;
 }
 .adress .link {
