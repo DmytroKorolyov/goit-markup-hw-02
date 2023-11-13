@@ -19,23 +19,23 @@ ul {
 }
  
 .navigation .logo-part-web {
-    color: var(--primary-brand);
+    color: var(--dark);
     font-family: Raleway, sans-serif;
         font-size: 18px;
         font-style: normal;
         font-weight: 800;
-        line-height: 21px;
+        line-height: 1.17;
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
 .navigation .link {
     color: var(--primary-brand);
     color: var(--IRIS, #4D5AE5);
-        font-family: Raleway;
+        font-family: Raleway, sans-serif;
         font-size: 18px;
         font-style: normal;
         font-weight: 800;
-        line-height: 21px;
+        line-height: 1.17;
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
