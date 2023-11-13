@@ -196,3 +196,15 @@ color: var(--light);
         background-color: #4D5AE5;
         cursor: pointer;
 }
+.section-one .section-one-button:hover, 
+.section-one .section-one-button:focus {
+    color: var(--white-background);
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.64px;
+    background-color: #404BBF;
+    cursor: pointer;
+}
