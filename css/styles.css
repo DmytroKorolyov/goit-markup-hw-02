@@ -28,13 +28,13 @@ ul {
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
-.navigation .navigation-logo {
+.navigation .link {
     color: var(--primary-brand);
     font-family: Raleway, sans-serif;
         font-size: 18px;
         font-style: normal;
         font-weight: 800;
-        line-height: 1.17px;
+        line-height: 1.17;
         letter-spacing: 0.54px;
         text-transform: uppercase;
         text-decoration: none;
