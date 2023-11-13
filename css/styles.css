@@ -172,21 +172,27 @@ color: var(--light);
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
+.section-one {
+    background-color: var(--dark);
+}
 .section-one .section-one-title {
     color: var(--white-background);
     font-family: Roboto;
         font-size: 56px;
         font-style: normal;
         font-weight: 700;
-        line-height: 60px;
+        line-height: 1.07;
         letter-spacing: 1.12px;
+        text-align: center;
         }
 .section-one .section-one-button {
     color: var(--white-background);
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
         font-size: 16px;
         font-style: normal;
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.64px;
+        background-color: #4D5AE5;
+        cursor: pointer;
 }
